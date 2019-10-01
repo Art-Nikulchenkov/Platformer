@@ -1,0 +1,64 @@
+Data/Images/mainImage0.png
+Data/Images/groundImage1.png 
+700
+140
+
+Enemy count:
+0
+
+Panels count:
+2
+
+1-st panel:
+800
+600
+230
+35
+false
+1
+50
+340
+Data/Images/platformImage1.png
+
+2-nd panel:
+600
+670
+80
+35
+false
+0
+0
+0
+Data/Images/platformImage1.png
+
+Items count:
+1
+
+3-d Item:
+900
+510
+60
+60
+1
+Data/Images/doorImage.png
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

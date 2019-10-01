@@ -1,0 +1,145 @@
+Data/Images/mainImage2.png
+Data/Images/groundImage3.png 
+700
+140
+
+Enemy count:
+3
+
+1-st Enemy:
+430
+620
+50
+51
+1
+false
+false
+600
+750
+Data/Images/enemyImage3Left.png
+
+2-nd Enemy:
+520
+400
+50
+51
+1
+true
+true
+550
+760
+Data/Images/enemyImage3Left.png
+Data/Images/shootingImage.png
+
+1-st Enemy:
+875
+400
+50
+51
+1
+false
+false
+600
+750
+Data/Images/enemyImage3Right.png
+
+Panels count:
+5
+
+1-st panel:
+630
+670
+80
+35
+false
+0
+0
+0
+Data/Images/platformImage3.png
+
+2-nd panel:
+430
+670
+80
+35
+false
+0
+0
+0
+Data/Images/platformImage3.png
+
+3-d panel:
+650
+600
+80
+35
+true
+2
+100
+300
+Data/Images/platformImage3.png
+
+4-th panel:
+50
+520
+80
+35
+false
+0
+0
+0
+Data/Images/platformImage3.png
+
+5-th panel:
+270
+450
+800
+35
+false
+0
+0
+0
+Data/Images/platformImage3.png
+
+Items count:
+4
+
+1-st Item:
+1180
+670
+60
+60
+1
+Data/Images/doorImage.png
+1
+
+2-nd Item:
+830
+400
+25
+25
+1
+Data/Images/keyImage.png
+2
+
+3-rd Item:
+1400
+670
+30
+30
+1
+Data/Images/pointImage.png
+5
+
+4-th Item:
+130
+310
+30
+30
+1
+Data/Images/pointImage.png
+5
+
+
+
+

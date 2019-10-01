@@ -1,0 +1,10 @@
+Alisa 
+1000
+Player 
+2350
+Third 
+200
+Second 
+250
+First 
+150
